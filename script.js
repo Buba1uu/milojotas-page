@@ -15,6 +15,7 @@ function loadPage(pageUrl) {
 }
 
 
+
 document.getElementById('pagina1').addEventListener('click', function() {
     loadPage('511.html');
 });
