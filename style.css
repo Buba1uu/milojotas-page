@@ -77,6 +77,15 @@ main {
   padding: 20px;
 }
 
+#letra{
+
+ padding: 30px 200px;
+ font-size: larger;
+
+
+
+}
+
 .about, .songs, .favorite-song {
   margin-bottom: 30px;
 }
